@@ -5,7 +5,7 @@ Library    SeleniumLibrary
 
 
 *** Variables ***
-${url}  https://www.google.com
+${url}  https://www.youtube.com
 
 
 *** Test Cases ***
